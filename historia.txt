@@ -1,1 +1,4 @@
 Hola Este es mi primer archivo sujeto a versión de código Git.
+
+Soy sebastián y tengo 28 años.
+Esto es una línea nueva.
