@@ -4,3 +4,5 @@ Soy sebastián y tengo 28 años.
 Esto es una línea nueva.
 
 Hoy hablaremos de su vida
+
+Soy Sebastián palacio y estoy practicando git
